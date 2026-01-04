@@ -7,20 +7,28 @@ This project presents a comprehensive Power BI dashboard solution built on the A
 The solution includes multiple interactive reports, each tailored to specific business needs:
 
 1️⃣ Executive Report
-       - Designed for senior management
-       - Provides a high-level overview of sales performance, KPIs, and business trends
+
+Designed for senior management
+
+Provides a high-level overview of sales performance, KPIs, and business trends
 
 2️⃣ Map Report
-      - Focuses on geographical analysis
-      - Visualizes sales and customer distribution across regions
+
+Focuses on geographical analysis
+
+Visualizes sales and customer distribution across regions
 
 3️⃣ Product Report
-      - Detailed analysis of product performance
-      - Helps identify top-performing and underperforming products
+
+Provides a detailed analysis of product performance
+
+Helps identify top-performing and underperforming products
 
 4️⃣ Customer Report
-     - In-depth customer insights
-     - Analyzes customer demographics, behavior, and contribution to revenue
+
+Delivers in-depth customer insights
+
+Analyzes customer demographics, behavior, and revenue contribution
 
 🛠️ Skills & Tools Demonstrated
 🔹 Power BI & Analytics Skills
