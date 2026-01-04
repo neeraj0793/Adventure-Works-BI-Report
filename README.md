@@ -32,19 +32,31 @@ Analyzes customer demographics, behavior, and revenue contribution
 
 🛠️ Skills & Tools Demonstrated
 🔹 Power BI & Analytics Skills
-    - Data Cleaning & Transformation using Power Query
-    - Data Modeling with optimized relationships (Star Schema and Snowflake Schema)
-    - Advanced DAX Measures & Calculated Columns
-    - Condtional formating
-    - Bookmarks and Page Navigations
-    - Interactive visualizations and drill-through reports
-    - Performance-optimized dashboard design
+
+Data cleaning and transformation using Power Query
+
+Data modeling with optimized relationships
+(Star Schema & Snowflake Schema)
+
+Advanced DAX measures and calculated columns
+
+Conditional formatting for better data interpretation
+
+Bookmarks and page navigation for enhanced user experience
+
+Interactive visualizations with drill-through reports
+
+Performance-optimized dashboard design
 
 🔹 Tools & Technologies
-    - Power BI Desktop
-    - Power Query Editor
-    - DAX
-    - Relational Data Modeling
+
+Power BI Desktop
+
+Power Query Editor
+
+DAX
+
+Relational Data Modeling
 
     
 Data Source Used
