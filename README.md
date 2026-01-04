@@ -31,6 +31,7 @@ Delivers in-depth customer insights
 Analyzes customer demographics, behavior, and revenue contribution
 
 🛠️ Skills & Tools Demonstrated
+
 🔹 Power BI & Analytics Skills
 
 Data cleaning and transformation using Power Query
